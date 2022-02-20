@@ -1,5 +1,5 @@
 # ForTheHorses
-Animal rescue app developed by Jonathan Lee, Aradhya Singh, Devin Lo and Alessandra Soni for YUHacks 2022.
+Animal rescue app developed by Jonathan Lee, Aradhya Singh, Devin Lo and Alessandra Soni for YUHacks 2022, The project won 1st prize.
 Overview of the project 
 
 The goal of this project was to speed up the process of matching animals in rescue centres with potential forever homes by incorporating information gathered by the rescue and adopter during the sign-up process that identifies potential animal adopters who meet criteria and characteristics that the animals in need of forever homes require.
